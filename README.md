@@ -21,22 +21,22 @@ Hedeflenen sayfa dizaynı şu dosya içerisinde gösterilmiştir: [dizayn dosyas
 
 Aşağıdaki adımları takip edin.:
 
-- [ ] Repoyu forklayın ve klonlayın.
-- [ ] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
-- [ ] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
-- [ ] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
-- [ ] Çalışmanızı düzenli commitlerle main branch'e aktarın. gönderdiğiniz URL programınızın en son versiyonuna göndermektedir.
+- [x] Repoyu forklayın ve klonlayın.
+- [x] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
+- [x] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
+- [x] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
+- [x] Çalışmanızı düzenli commitlerle main branch'e aktarın. gönderdiğiniz URL programınızın en son versiyonuna göndermektedir.
 
 ### Görev 2: Minimum Uygulanabilir Ürün
 
 Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğiniz site stillemeye dair pratik yapın. Tamamladığınız sayfanın verdiğimiz dizayn dosyasına benziyor olması gerekmektedir. Minimum yeterliliği sağlamak için aşağıda verilenleri uygulayın:
 
-- [ ] CSS stylesheet dosyanızı `index.html` dosyasına linkleyin 
-- [ ] Verilen görüntüyü elde etmek için HTML etiketlerinizi semantik(anlamsal) olarak ekleyin
-- [ ] Menü elemanlarını ve footer(altbar)'ı arkaplanlarını(background) renklendirmek için verilen renk kodlarını kullanın:
-  - [ ] Gezinizi Planlayın: `#FF764E`
-  - [ ] Bilgi Edinin: `#5ED3EB`
-  - [ ] Karşılaştırın: `#FFCD69`
+- [x] CSS stylesheet dosyanızı `index.html` dosyasına linkleyin 
+- [x] Verilen görüntüyü elde etmek için HTML etiketlerinizi semantik(anlamsal) olarak ekleyin
+- [x] Menü elemanlarını ve footer(altbar)'ı arkaplanlarını(background) renklendirmek için verilen renk kodlarını kullanın:
+  - [x] Gezinizi Planlayın: `#FF764E`
+  - [x] Bilgi Edinin: `#5ED3EB`
+  - [x] Karşılaştırın: `#FFCD69`
 - [ ] Yazı renkleri ve fontlar:
   - [ ] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
   - [ ] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
